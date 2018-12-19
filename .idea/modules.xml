@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auto-refresh.iml" filepath="$PROJECT_DIR$/auto-refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-client/eureka-config-bus-client.iml" filepath="$PROJECT_DIR$/bus-client/eureka-config-bus-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/eureka-config-server.iml" filepath="$PROJECT_DIR$/config-server/eureka-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+    </modules>
+  </component>
+</project>
